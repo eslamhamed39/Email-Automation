@@ -3,5 +3,5 @@ pandas
 openpyxl
 smtplib
 email
-streamlit-quill
+git+https://github.com/streamlit/streamlit-quill
 
