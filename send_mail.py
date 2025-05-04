@@ -66,8 +66,8 @@ if st.button("Send Emails"):
                         <img src="https://i.ibb.co/Hp7L6yg3/image001.png" alt="Geomakani Logo" width="152">
                     </td>
                     <td style="vertical-align: top;">
-                        <p style="margin: 0; color: #e67300; font-weight: bold;">{name}</p>
-                        <p style="margin: 0; color: #e67300;">{title}</p>
+                        <p style="margin: 0; color: #e67300; font-weight: bold; font-size:20px;">{name}</p>
+                        <p style="margin: 0; color: #e67300;font-size:17px;">{title}</p>
                         <br>
                         <p style="margin: 0;"><strong>Mobile:</strong>{phone}</p>
                         <p style="margin: 0;"><strong>Email:</strong> <a href="mailto:{email}">{email}</a></p>

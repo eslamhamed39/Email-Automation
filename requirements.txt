@@ -1,7 +1,5 @@
 streamlit
 pandas
 openpyxl
-smtplib
-email
-git+https://github.com/streamlit/streamlit-quill
+streamlit-quill
 
